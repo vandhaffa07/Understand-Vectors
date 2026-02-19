@@ -35,7 +35,7 @@ v_3
 $$
 
 $$
-\text{Dalam ruang 2 dimensi:} \quad 
+\text{Dalam ruang 2 dimensi}(\mathbb{R}^2) :\quad 
 \vec{v} =
 \begin{pmatrix}
 v_1 \\
@@ -44,6 +44,8 @@ v_2
 $$
 
 Perbedaan ini bukan sekadar estetika penulisan. Dalam aljabar linear, bentuk kolom sering digunakan karena lebih konsisten dengan operasi matriks dan transformasi linear. Namun, pada tahap awal ini, keduanya merepresentasikan objek matematis yang sama.
+
+## VEKTOR PADA RUANG 2 DIMENSI
 
 ![Image](https://github.com/user-attachments/assets/0cc69227-6857-42f7-bac7-fbe2cbf68a33)
 
