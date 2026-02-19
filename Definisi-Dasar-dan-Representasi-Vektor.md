@@ -45,6 +45,6 @@ $$
 
 Perbedaan ini bukan sekadar estetika penulisan. Dalam aljabar linear, bentuk kolom sering digunakan karena lebih konsisten dengan operasi matriks dan transformasi linear. Namun, pada tahap awal ini, keduanya merepresentasikan objek matematis yang sama.
 
-
+![Image](https://github.com/user-attachments/assets/0cc69227-6857-42f7-bac7-fbe2cbf68a33)
 
 
